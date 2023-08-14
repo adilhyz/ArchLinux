@@ -1,0 +1,9 @@
+haveged
+intel-media-driver
+libva-utils
+linux-headers
+linux-zen-headers
+mesa
+virtualbox-guest-utils
+vulkan-intel
+xf86-video-intel

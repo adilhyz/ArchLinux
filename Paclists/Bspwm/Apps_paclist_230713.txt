@@ -1,0 +1,6 @@
+firefox
+libreoffice-fresh
+neofetch
+qbittorrent
+vlc
+yt-dlp
