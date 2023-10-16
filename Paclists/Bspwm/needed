@@ -38,3 +38,5 @@ gvfs-nfs
 gvfs-smb
 openssh
 xf86-video-intel
+haveged
+neovim
