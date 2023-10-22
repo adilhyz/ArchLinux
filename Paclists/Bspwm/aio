@@ -44,12 +44,11 @@ libreoffice-fresh
 libsecret
 linux-headers
 linux-zen-headers
+meld
 mtools
 networkmanager
 network-manager-applet
 nfs-utils
-meld
-mtools
 nmap
 nvme-cli
 openssh
