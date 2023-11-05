@@ -53,6 +53,7 @@ nmap
 nvme-cli
 openssh
 os-prober
+p7zip
 pavucontrol
 python-pillow
 python-pip
@@ -64,6 +65,7 @@ reflector
 rsync
 sddm
 system-config-printer
+unrar
 vlc
 wpa_supplicant
 xf86-video-intel
