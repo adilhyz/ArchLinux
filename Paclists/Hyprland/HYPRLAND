@@ -1,13 +1,8 @@
 hyprland
 xdg-desktop-portal-hyprland
-xdg-desktop-portal
-xdg-desktop-portal-gtk
 xorg-xwayland
 wlroots
-qt5-wayland
 qt6-wayland
-qt5ct
-qt6ct
 wl-clipboard
 grim
 slurp
@@ -20,5 +15,3 @@ dunst
 brightnessctl
 pamixer
 libnotify
-gtk-engine-murrine
-gtk-engines
